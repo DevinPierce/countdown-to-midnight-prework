@@ -2,7 +2,7 @@
 
 def countdown(n)
   until (n == 0) do
-    puts "#{n} SEOND(S)!"
+    puts "#{n} SECOND(S)!"
     n -= 1
   end
 end
